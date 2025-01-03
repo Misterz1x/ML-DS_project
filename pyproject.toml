@@ -6,7 +6,7 @@ authors = [
     {name = "Zischg Elias", email = "ze8907@mci4me.at"},
 ]
 dependencies = ["numpy>=2.2.0", "scikit-learn>=1.5.2", "pandas>=2.2.3"]
-requires-python = "==3.12.*"
+requires-python = "==3.11.*"
 readme = "README.md"
 license = {text = "MIT"}
 
